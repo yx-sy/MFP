@@ -16,14 +16,39 @@
       "version": "0.0.2"
     },
     {
+      "name": "歌词网",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/geciwang\/index.js",
+      "version": "0.0.0"
+    },
+    {
+      "name": "快手",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/kuaishou\/index.js",
+      "version": "0.0.1"
+    },
+    {
       "name": "Navidrome",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/navidrome\/index.js",
+      "version": "0.0.0"
+    },
+    {
+      "name": "猫耳FM",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/maoerfm\/index.js",
+      "version": "0.1.4"
+    },
+    {
+      "name": "suno",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/suno\/index.js",
       "version": "0.0.0"
     },
     {
       "name": "WebDAV",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/webdav\/index.js",
       "version": "0.0.2"
+    },
+    {
+      "name": "udio",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/udio\/index.js",
+      "version": "0.0.0"
     },
     {
       "name": "音悦台",
@@ -49,11 +74,6 @@
       "name": "酷狗",
       "url": "http:\/\/adad23u.appinstall.life\/dist\/kugou\/index.js",
       "version": "0.1.4"
-    },
-    {
-      "name": "猫耳FM",
-      "url": "http:\/\/adad23u.appinstall.life\/dist\/maoerfm\/index.js",
-      "version": "0.1.3"
     },
     {
       "name": "网易云",
